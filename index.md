@@ -1,8 +1,10 @@
 # Catherine's first CS193 Lab
 
+```
 - The instructors are really nice and friendly.
 - They're teaching us about CS stuff we won't learn in 180.
 - Github seems pretty cool.
+```
 
 
 ## Welcome to GitHub Pages
