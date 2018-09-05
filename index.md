@@ -1,5 +1,10 @@
 # Catherine's first CS193 Lab
 
+- The instructors are really nice and friendly.
+- They're teaching us about CS stuff we won't learn in 180.
+- Github seems pretty cool.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
